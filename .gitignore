@@ -1,0 +1,24 @@
+# 音频与样本文件不入库
+*.ncm
+*.uc!
+*.qmc*
+*.mp3
+*.flac
+*.m4a
+*.wav
+
+# 解密中间产物
+*.dec.*
+*.cover.*
+
+# 输出目录
+out/
+_test_out/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+*.egg-info/

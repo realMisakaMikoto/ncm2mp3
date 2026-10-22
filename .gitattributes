@@ -1,0 +1,10 @@
+* text=auto eol=lf
+
+*.py text eol=lf
+*.md text eol=lf
+*.txt text eol=lf
+
+*.ncm binary
+*.mp3 binary
+*.jpg binary
+*.png binary
